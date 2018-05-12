@@ -1,0 +1,32 @@
+_repo: '---_25321'
+_version: 0.1.0
+alternative_title: Su Xun Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Su, Xun
+    alias: 蘇洵
+    birthdate: 1009
+    deathdate: 1066
+    gutenberg_agent_id: '31242'
+    url: http://www.gutenberg.org/2009/agents/31242
+  editor:
+    agent_name: Xu, Ren Tu
+    gutenberg_agent_id: '26211'
+    url: http://www.gutenberg.org/2009/agents/26211
+description: ''
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25321'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese essays'
+- !lcc 'PL'
+title: 蘇洵集
+url: http://www.gutenberg.org/ebooks/25321
